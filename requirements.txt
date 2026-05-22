@@ -1,3 +1,4 @@
+streamlit # UI and deployment
 # utilities
 numpy
 pandas
@@ -15,4 +16,7 @@ bcrypt #encrypt pass e.g- anish123-->hdjnalih&^7
 segno
 pillow # for image related tasks
 
-streamlit # UI and deployment
+
+
+librosa
+resemblyzer
